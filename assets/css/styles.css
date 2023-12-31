@@ -80,3 +80,9 @@
 .gallery-img img:hover {
     transform: translate(-3%, 3%) scale(1.2) rotate(5deg);
 }
+
+.responsive-table {
+    width: 100%;
+    overflow: hidden;
+    overflow-x: scroll;
+}
